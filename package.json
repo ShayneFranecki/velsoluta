@@ -1,0 +1,32 @@
+{
+  "name": "velsoluta",
+  "version": "1.0.0",
+  "description": "A high-performance JavaScript 2D/3D polyline simplification library",
+  "homepage": "https://github.com/ShayneFranecki/velsoluta.git",
+  "author": "EltaSwaniawski",
+  "keywords": [
+    "math",
+    "aut",
+    "tenetur",
+    "quam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShayneFranecki/velsoluta.git"
+  },
+  "main": "simplify.js",
+  "devDependencies": {
+    "benchmark": "^1.0.0",
+    "faucet": "0.0.1",
+    "jshint": "^2.6.3",
+    "tape": "^3.5.0"
+  },
+  "jshintConfig": {
+    "quotmark": "single",
+    "trailing": true,
+    "unused": true
+  },
+  "bugs": {
+    "url": "https://github.com/ShayneFranecki/velsoluta.git/issues"
+  }
+}
